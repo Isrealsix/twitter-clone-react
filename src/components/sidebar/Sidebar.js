@@ -10,7 +10,7 @@ import {
 	PermIdentity,
 	MoreHoriz,
 } from '@material-ui/icons';
-import './Sidebar.css';
+import './Sidebar.scss';
 import SidebarOption from './sidebarOption/SidebarOption';
 import { Button } from '@material-ui/core';
 
