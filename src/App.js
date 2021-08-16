@@ -1,13 +1,16 @@
 import './App.scss';
 import Feed from './components/feed/Feed';
 import Sidebar from './components/sidebar/Sidebar';
+import Widgets from './components/widgets/Widgets';
 
 function App() {
 	return (
-		<div className="App">
+		<div className="app">
 			<Sidebar />
 
 			<Feed />
+
+			<Widgets />
 		</div>
 	);
 }
