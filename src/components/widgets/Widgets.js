@@ -1,7 +1,7 @@
 import './Widgets.scss';
 import {
 	TwitterTimelineEmbed,
-	TwitterShareButton,
+	// TwitterShareButton,
 	TwitterTweetEmbed,
 } from 'react-twitter-embed';
 import { Search } from '@material-ui/icons';
