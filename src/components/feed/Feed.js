@@ -12,7 +12,14 @@ const Feed = () => {
 
 			<TweetBox />
 
-			<Post />
+			<Post
+				displayName="Israel Ojeifo"
+				username="isrealsix"
+				verified
+				text="It's really cool to be a programmer"
+				avatar="https://images.pexels.com/photos/7530969/pexels-photo-7530969.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+				image="https://i.giphy.com/3oriOdaziBUn6KfTjy.gif"
+			/>
 			<Post />
 		</div>
 	);
